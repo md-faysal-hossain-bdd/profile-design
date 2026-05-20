@@ -54,19 +54,6 @@ I am a versatile and highly certified **MERN Stack Developer** with a robust bac
       </details>
     </td>
     
-    <!-- COLUMN 2: INTERACTIVE INFO CARD -->
-    <td width="50%" valign="top">
-      <details open>
-        <summary><b>📂 <code>SECURE_DB // CREDENTIALS</code></b></summary>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=md-faysal-hossain-bddh&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" width="100%" alt="GitHub Stats" />
-        </p>
-        <blockquote>
-          <b>🎯 NSDA Certified Trainer</b><br />
-          • Refresher Training of Trainers (NSDA)
-        </blockquote>
-      </details>
-    </td>
   </tr>
 </table>
 
