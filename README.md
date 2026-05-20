@@ -33,6 +33,9 @@
 
 </div>
 
+<!-- Interactive preview -->
+<p align="center">Interactive animated preview (matrix + animated cards) is available at <a href="./docs/index.html">docs/index.html</a>. To view it on GitHub enable <strong>GitHub Pages</strong> for this repository (set source to the `docs/` folder). If you prefer an animation inside the README, I can export a GIF.</p>
+
 ---
 
 <!-- ABOUT ME -->
