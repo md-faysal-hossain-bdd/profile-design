@@ -17,17 +17,6 @@
 
 ---
 
-## 💻 SYSTEM INITIALIZATION (TELEMETRY LOG)
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00FFD1&width=450&lines=faysal%40dev%3A~%24+init+--production-kernel;faysal%40dev%3A~%24+fetch+system-manifest.json" alt="Terminal Command Animation" />
-</div>
-
-<blockquote>
-  <b>CORE BIO-LOG:</b> Full-Stack MERN Stack Developer and Technical Instructor (NSDA Certified Web Design Level-3) operating from Motijheel, Dhaka. Specializing in highly optimized, scalable web infrastructures, cross-platform mobile environments, and automated Software Quality Assurance. Concurrently training and certifying the next generation of ICT professionals under standardized national frameworks.
-</blockquote>
-
----
 
 ## 🛠️ CORE TECH STACK EXPANSION
 
