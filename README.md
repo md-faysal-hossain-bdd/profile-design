@@ -1,4 +1,4 @@
-<!-- EXECUTABLE HEADER LAYER -->
+<!-- HEADER ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=MD+FAYSAL+HOSSAIN;%5B%2F%2F+MERN+STACK+WEB+DEVELOPER+%5D;%5B%2F%2F+FULL+STACK+ENGINEER+%5D" alt="System Typing Vector" />
 </div>
@@ -16,6 +16,13 @@
 </div>
 
 ---
+
+### 🚀 Developer Terminal
+<div align="center">
+  <img src="https://assets.media-platform.com/gizmodo/dist/images/2022/03/10/2022-03-10_matrixcode-w1280.gif" width="100%" height="180px" style="object-fit: cover; border-radius: 6px; border: 1px solid #00FF66;" alt="Matrix Cyber Animation" />
+</div>
+
+<br />
 
 ### 🌐 Professional Profile
 A highly analytical, multi-certified **Full-Stack MERN Developer** specializing in production-ready architecture, database modeling, and scalable web/mobile applications. Backed by extensive structural training and industry-recognized level certifications, I combine robust system optimization with precise software quality assurance pipelines to deliver enterprise-grade digital products.
