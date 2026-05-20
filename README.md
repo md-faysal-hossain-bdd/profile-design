@@ -1,137 +1,414 @@
-<div align="center">
-
-  <!-- Animated Name & Title -->
-  <h1>
-    <span style="background: linear-gradient(90deg, #00ff00, #00ffff, #ffff00, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold; animation: slideIn 2s ease-out forwards, glow 1.5s infinite alternate;">
-      MD FAYSAL HOSSAIN
-    </span>
-  </h1>
-  
-  <h2>
-    <span style="color: #00ff41; font-family: monospace; animation: typing 3.5s steps(40, end) forwards, blink-caret .75s step-end infinite; border-right: 4px solid #00ff41;">
-      MERN Stack Developer
-    </span>
-  </h2>
-
-  <p><em>Passionate Full-Stack Developer | MERN Expert | Digital Marketer | Hardware Enthusiast | Lifelong Learner</em></p>
-
-  <!-- Hacker-style divider -->
-  <div style="height: 2px; background: linear-gradient(to right, transparent, #00ff41, transparent); margin: 20px 0;"></div>
-
-</div>
-
-<!-- Short Description -->
-<p align="center">
-  I am a dedicated <strong>MERN Stack Developer</strong> with a strong foundation in web development, hardware troubleshooting, graphic design, and digital marketing. 
-  With multiple professional certifications and hands-on training, I love building scalable web applications, solving complex problems, and continuously upgrading my skills. 
-  Currently focused on creating clean, efficient, and user-friendly digital experiences.
-</p>
-
-<br>
-
-<!-- Social Media -->
-<div align="center">
-  <h3>🌐 Connect With Me</h3>
-  
-  <a href="https://www.youtube.com/@md.faysal.hossain" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-faysal-hossain-bddh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/faysal_backbencher/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/Md.Faysal.Hossain.B/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://x.com/MdFaysalbddh" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-</div>
-
-<br><br>
-
-<!-- Cards Section -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <!-- Info Card -->
-  <div style="background: rgba(0, 20, 0, 0.9); border: 2px solid #00ff41; border-radius: 15px; padding: 25px; width: 420px; box-shadow: 0 0 25px #00ff41; animation: hackerBorder 4s infinite alternate, float 6s ease-in-out infinite;">
-    <h3 style="color: #00ff41; text-align: center; font-family: monospace; letter-spacing: 2px;">📚 ACADEMIC & PROFESSIONAL TRAINING</h3>
-    <ul style="color: #aaffaa; text-align: left; font-size: 0.95em; line-height: 1.8;">
-      <li><strong>MERN Stack Web Development</strong> - Daffodil International Professional Training Institute (DIPTI)</li>
-      <li><strong>Web Design & Development for Freelancing</strong> - European IT Institute</li>
-      <li><strong>Web Application Development with Python</strong> - Touch and Solve</li>
-      <li><strong>Android App Development with Kotlin</strong> - DIPTI</li>
-      <li><strong>Software Quality Assurance</strong> - PeopleNTech</li>
-      <li><strong>IT Support, Graphic Design, Laptop Repair & more</strong> (Multiple RPL & Professional Certificates)</li>
-      <li><strong>Trainer's Training</strong> - NSDA Refresher</li>
-    </ul>
-  </div>
-
-  <!-- Skills Card -->
-  <div style="background: rgba(0, 20, 0, 0.9); border: 2px solid #00ff41; border-radius: 15px; padding: 25px; width: 420px; box-shadow: 0 0 25px #00ff41; animation: hackerBorder 4s infinite alternate, float 6s ease-in-out infinite 2s;">
-    <h3 style="color: #00ff41; text-align: center; font-family: monospace; letter-spacing: 2px;">🛠️ SKILLS & EXPERTISE</h3>
-    <ul style="color: #aaffaa; text-align: left; font-size: 0.95em; line-height: 1.8;">
-      <li><strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, JavaScript, HTML5, CSS3</li>
-      <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, REST APIs</li>
-      <li><strong>Others:</strong> Python (Web Dev), Android (Kotlin), Digital Marketing, Graphic Design</li>
-      <li><strong>Hardware:</strong> Laptop Motherboard Repair & IT Support</li>
-      <li><strong>Soft Skills:</strong> Training & Teaching, Problem Solving, Self Defense & Leadership</li>
-    </ul>
-  </div>
-
-</div>
-
-<br><br>
-
-<!-- Programming Languages -->
-<div align="center">
-  <h3>💻 Programming Languages & Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </p>
-</div>
-
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00ff41&style=flat" alt="Profile Views"/>
-  <p style="color: #00aa44; font-family: monospace; margin-top: 20px;">"Turning coffee into code & problems into solutions"</p>
-</div>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GitHub Profile Preview – MD Faysal Hossain</title>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Fira+Code:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 <style>
-  @keyframes slideIn {
-    from { transform: translateX(-100px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #00ff41; }
-  }
-  
-  @keyframes hackerBorder {
-    0% { box-shadow: 0 0 15px #00ff41; }
-    100% { box-shadow: 0 0 35px #00ff88, 0 0 50px #00ff41; }
-  }
-  
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-15px); }
-  }
+:root{
+  --bg:#0D1117;--panel:#161B22;--border:#00FFD1;--accent:#A78BFA;
+  --red:#FF6B6B;--text:#CDD9E5;--dim:#768390;--green:#00FFD1;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:'Fira Code',monospace;overflow-x:hidden}
+
+/* SCANLINE OVERLAY */
+body::before{content:'';position:fixed;inset:0;background:repeating-linear-gradient(0deg,rgba(0,255,209,.015) 0px,rgba(0,255,209,.015) 1px,transparent 1px,transparent 4px);pointer-events:none;z-index:9999}
+
+.page{max-width:960px;margin:0 auto;padding:32px 20px 80px}
+
+/* ── HEADER ── */
+.hero{text-align:center;padding:56px 20px 40px;position:relative}
+.hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 50% 0%,rgba(0,255,209,.07),transparent);pointer-events:none}
+
+/* GLITCH NAME */
+.glitch-name{font-family:'Orbitron',monospace;font-weight:900;font-size:clamp(28px,6vw,52px);color:var(--green);letter-spacing:2px;position:relative;display:inline-block;animation:colorCycle 4s linear infinite}
+@keyframes colorCycle{0%{color:#00FFD1;text-shadow:0 0 20px #00FFD1,0 0 40px #00FFD1}25%{color:#A78BFA;text-shadow:0 0 20px #A78BFA,0 0 40px #A78BFA}50%{color:#FF6B6B;text-shadow:0 0 20px #FF6B6B,0 0 40px #FF6B6B}75%{color:#F59E0B;text-shadow:0 0 20px #F59E0B,0 0 40px #F59E0B}100%{color:#00FFD1;text-shadow:0 0 20px #00FFD1,0 0 40px #00FFD1}}
+
+.glitch-name::before,.glitch-name::after{content:attr(data-text);position:absolute;inset:0;left:0}
+.glitch-name::before{color:#ff003c;text-shadow:none;animation:glitch1 3s infinite;clip-path:polygon(0 15%,100% 15%,100% 35%,0 35%)}
+.glitch-name::after{color:#00c8ff;text-shadow:none;animation:glitch2 3s infinite;clip-path:polygon(0 65%,100% 65%,100% 85%,0 85%)}
+@keyframes glitch1{0%,90%,100%{transform:translate(0)}91%{transform:translate(-3px,1px)}93%{transform:translate(3px,-1px)}95%{transform:translate(-2px,2px)}}
+@keyframes glitch2{0%,87%,100%{transform:translate(0)}88%{transform:translate(3px,2px)}90%{transform:translate(-3px,-2px)}92%{transform:translate(2px,1px)}}
+
+/* TYPEWRITER TITLE */
+.typewriter{font-family:'Orbitron',monospace;font-size:clamp(13px,2.5vw,18px);color:var(--accent);margin-top:14px;letter-spacing:3px;overflow:hidden;white-space:nowrap;border-right:2px solid var(--accent);width:0;animation:typing 2.5s steps(22,end) 1s forwards,blink .7s step-end infinite}
+@keyframes typing{from{width:0}to{width:22ch}}
+@keyframes blink{0%,100%{border-color:var(--accent)}50%{border-color:transparent}}
+
+/* ABOUT TERMINAL */
+.terminal{background:#0a0e14;border:1px solid var(--border);border-radius:10px;padding:0;margin:32px 0;overflow:hidden;box-shadow:0 0 30px rgba(0,255,209,.1)}
+.terminal-bar{background:#161B22;padding:10px 16px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #30363D}
+.dot{width:12px;height:12px;border-radius:50%}
+.dot-r{background:#FF5F57}.dot-y{background:#FFBD2E}.dot-g{background:#28C840}
+.terminal-title{font-size:12px;color:var(--dim);margin-left:8px;font-family:'Share Tech Mono',monospace}
+.terminal-body{padding:20px 24px;font-family:'Share Tech Mono',monospace;font-size:13.5px;line-height:1.9}
+.t-prompt{color:var(--green)}
+.t-cmd{color:#fff}
+.t-out{color:#8B949E;padding-left:4px}
+.t-out span{color:var(--green)}
+.t-cursor{display:inline-block;width:8px;height:14px;background:var(--green);animation:blink .7s step-end infinite;vertical-align:middle;margin-left:2px}
+
+/* SOCIAL BADGES ROW */
+.socials{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:28px 0}
+.badge{display:inline-flex;align-items:center;gap:8px;padding:8px 18px;border-radius:6px;font-family:'Orbitron',monospace;font-size:11px;font-weight:700;letter-spacing:1px;text-decoration:none;border:1px solid;transition:transform .15s,box-shadow .15s;position:relative;overflow:hidden}
+.badge::before{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.08),transparent);transform:translateX(-100%);transition:transform .4s}
+.badge:hover::before{transform:translateX(100%)}
+.badge:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.4)}
+.b-yt{background:#1a0000;color:#FF4444;border-color:#FF4444}
+.b-li{background:#001221;color:#0A84FF;border-color:#0A84FF}
+.b-ig{background:#1a0016;color:#E4405F;border-color:#E4405F}
+.b-fb{background:#00102a;color:#1877F2;border-color:#1877F2}
+.b-tw{background:#0a0a0a;color:#888;border-color:#555}
+.badge svg{width:16px;height:16px;flex-shrink:0}
+
+/* SECTION HEADING */
+.sec-head{display:flex;align-items:center;gap:14px;margin:44px 0 20px;font-family:'Orbitron',monospace;font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--green)}
+.sec-head::before,.sec-head::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,var(--green),transparent)}
+.sec-head::before{background:linear-gradient(90deg,transparent,var(--green))}
+
+/* CARDS GRID */
+.cards-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:600px){.cards-grid{grid-template-columns:1fr}}
+
+.card{background:var(--panel);border:1px solid #30363D;border-radius:10px;padding:22px;position:relative;overflow:hidden;transition:border-color .3s,box-shadow .3s,transform .3s;animation:cardFloat 4s ease-in-out infinite}
+.card:nth-child(2){animation-delay:.5s}
+.card:nth-child(3){animation-delay:1s}
+.card:nth-child(4){animation-delay:1.5s}
+@keyframes cardFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+.card:hover{border-color:var(--green);box-shadow:0 0 20px rgba(0,255,209,.2),inset 0 0 20px rgba(0,255,209,.03);transform:translateY(-8px) !important}
+
+/* matrix rain inside cards */
+.card::before{content:'';position:absolute;inset:0;background:linear-gradient(180deg,transparent 60%,rgba(0,255,209,.03));pointer-events:none}
+.card-corner{position:absolute;top:10px;right:10px;font-size:10px;color:var(--green);font-family:'Share Tech Mono',monospace;opacity:.5}
+
+.card-icon{font-size:28px;margin-bottom:10px}
+.card-title{font-family:'Orbitron',monospace;font-size:13px;font-weight:700;color:var(--green);letter-spacing:1px;margin-bottom:8px}
+.card-body{font-size:12.5px;color:var(--dim);line-height:1.75;font-family:'Share Tech Mono',monospace}
+.card-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.tag{font-size:10px;padding:2px 8px;border-radius:4px;font-family:'Orbitron',monospace;font-weight:600;letter-spacing:.5px}
+.tag-g{background:rgba(0,255,209,.12);color:var(--green);border:1px solid rgba(0,255,209,.3)}
+.tag-p{background:rgba(167,139,250,.12);color:var(--accent);border:1px solid rgba(167,139,250,.3)}
+.tag-r{background:rgba(255,107,107,.12);color:var(--red);border:1px solid rgba(255,107,107,.3)}
+.tag-y{background:rgba(245,158,11,.12);color:#F59E0B;border:1px solid rgba(245,158,11,.3)}
+
+/* STATS ROW */
+.stats-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:20px 0}
+@media(max-width:560px){.stats-grid{grid-template-columns:1fr}}
+.stat-card{background:var(--panel);border:1px solid #30363D;border-radius:10px;padding:18px;text-align:center;position:relative;overflow:hidden;transition:border-color .3s,box-shadow .3s}
+.stat-card:hover{border-color:var(--accent);box-shadow:0 0 16px rgba(167,139,250,.2)}
+.stat-num{font-family:'Orbitron',monospace;font-size:28px;font-weight:900;background:linear-gradient(135deg,var(--green),var(--accent));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.stat-label{font-size:11px;color:var(--dim);letter-spacing:2px;text-transform:uppercase;margin-top:4px;font-family:'Share Tech Mono',monospace}
+
+/* SKILLS */
+.skills-wrap{background:var(--panel);border:1px solid #30363D;border-radius:10px;padding:24px}
+.skill-cat{font-family:'Orbitron',monospace;font-size:11px;letter-spacing:2px;color:var(--green);margin-bottom:12px;margin-top:20px}
+.skill-cat:first-child{margin-top:0}
+.langs{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:6px}
+.lang-pill{display:flex;align-items:center;gap:7px;background:#0D1117;border:1px solid #30363D;border-radius:6px;padding:6px 12px;font-size:12px;font-family:'Share Tech Mono',monospace;color:#ccc;transition:border-color .2s,box-shadow .2s}
+.lang-pill:hover{border-color:var(--green);box-shadow:0 0 10px rgba(0,255,209,.15)}
+.lang-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+
+/* MATRIX CANVAS */
+#matrix{position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;opacity:.06}
+
+/* PROGRESS BARS */
+.prog-row{margin-bottom:12px}
+.prog-label{display:flex;justify-content:space-between;font-size:12px;font-family:'Share Tech Mono',monospace;margin-bottom:5px;color:#CDD9E5}
+.prog-bar{height:6px;background:#21262D;border-radius:3px;overflow:hidden}
+.prog-fill{height:100%;border-radius:3px;position:relative;animation:fillBar 2s ease-out forwards}
+@keyframes fillBar{from{width:0}}
+.prog-fill::after{content:'';position:absolute;right:0;top:0;bottom:0;width:4px;background:rgba(255,255,255,.6);border-radius:0 3px 3px 0;animation:shimmer 1.5s ease-in-out infinite 2s}
+@keyframes shimmer{0%,100%{opacity:1}50%{opacity:.3}}
+.pf-g{background:linear-gradient(90deg,#00FFD1,#06b6d4)}
+.pf-p{background:linear-gradient(90deg,#A78BFA,#8B5CF6)}
+.pf-r{background:linear-gradient(90deg,#FF6B6B,#EF4444)}
+.pf-y{background:linear-gradient(90deg,#F59E0B,#FBBF24)}
+
 </style>
+</head>
+<body>
+
+<canvas id="matrix"></canvas>
+
+<div class="page">
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="glitch-name" data-text="MD FAYSAL HOSSAIN">MD FAYSAL HOSSAIN</div>
+    <div style="display:flex;justify-content:center;margin-top:14px">
+      <div class="typewriter">MERN STACK DEVELOPER</div>
+    </div>
+    <p style="margin-top:20px;font-size:13px;color:var(--dim);font-family:'Share Tech Mono',monospace;letter-spacing:1px">📍 Motijheel, Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 NSDA Certified Trainer &nbsp;|&nbsp; 💼 Open to Freelance</p>
+  </div>
+
+  <!-- TERMINAL BIO -->
+  <div class="terminal">
+    <div class="terminal-bar">
+      <div class="dot dot-r"></div><div class="dot dot-y"></div><div class="dot dot-g"></div>
+      <span class="terminal-title">faysal@dev:~$ bash profile.sh</span>
+    </div>
+    <div class="terminal-body">
+      <div><span class="t-prompt">faysal@dev</span><span style="color:#A78BFA">:~$</span> <span class="t-cmd">cat about.txt</span></div>
+      <div class="t-out">I am a <span>MERN Stack Developer</span> and <span>NSDA Certified Web Design L-3 Trainer</span></div>
+      <div class="t-out">based in Motijheel, Dhaka 🇧🇩. With <span>13+ certifications</span> spanning web</div>
+      <div class="t-out">development, mobile apps, graphic design, digital marketing &amp; SQA,</div>
+      <div class="t-out">I build full-stack apps AND train the next generation of ICT professionals.</div>
+      <br>
+      <div><span class="t-prompt">faysal@dev</span><span style="color:#A78BFA">:~$</span> <span class="t-cmd">cat stack.txt</span></div>
+      <div class="t-out">MongoDB · Express.js · <span>React</span> · Node.js · Python · Kotlin · Laravel · PHP</div>
+      <br>
+      <div><span class="t-prompt">faysal@dev</span><span style="color:#A78BFA">:~$</span> <span class="t-cmd">echo $MISSION</span></div>
+      <div class="t-out"><span>"Code. Teach. Inspire. Repeat. 🚀"</span></div>
+      <br>
+      <div><span class="t-prompt">faysal@dev</span><span style="color:#A78BFA">:~$</span> <span class="t-cursor"></span></div>
+    </div>
+  </div>
+
+  <!-- SOCIAL MEDIA -->
+  <div class="sec-head">Connect With Me</div>
+  <div class="socials">
+    <a href="https://www.youtube.com/@md.faysal.hossain" target="_blank" class="badge b-yt">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1C4.5 20.5 12 20.5 12 20.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg>
+      YouTube
+    </a>
+    <a href="https://www.linkedin.com/in/md-faysal-hossain-bddh" target="_blank" class="badge b-li">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.4 2H3.6A1.6 1.6 0 0 0 2 3.6v16.8A1.6 1.6 0 0 0 3.6 22h16.8a1.6 1.6 0 0 0 1.6-1.6V3.6A1.6 1.6 0 0 0 20.4 2zM8 19H5V9h3v10zm-1.5-11.3a1.7 1.7 0 1 1 0-3.4 1.7 1.7 0 0 1 0 3.4zM19 19h-3v-5.3c0-1.3-.5-2.1-1.6-2.1-.9 0-1.4.6-1.6 1.2-.1.2-.1.5-.1.8V19h-3V9h3v1.4a3.3 3.3 0 0 1 3-1.6c2.1 0 3.7 1.4 3.7 4.4V19z"/></svg>
+      LinkedIn
+    </a>
+    <a href="https://www.instagram.com/faysal_backbencher/" target="_blank" class="badge b-ig">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 3.3.1 4.8 1.7 4.9 4.9.1 1.3.1 1.6.1 4.8s0 3.6-.1 4.8c-.1 3.2-1.7 4.8-4.9 4.9-1.3.1-1.6.1-4.9.1s-3.6 0-4.8-.1c-3.3-.1-4.8-1.7-4.9-4.9-.1-1.3-.1-1.6-.1-4.8s0-3.6.1-4.8C2.4 3.9 4 2.3 7.2 2.3c1.2-.1 1.6-.1 4.8-.1zm0-2.2C8.7 0 8.3 0 7.1.1 2.7.3.3 2.7.1 7.1 0 8.3 0 8.7 0 12s0 3.7.1 4.9C.3 21.3 2.7 23.7 7.1 23.9c1.2.1 1.6.1 4.9.1s3.7 0 4.9-.1c4.4-.2 6.8-2.6 7-7 .1-1.2.1-1.6.1-4.9s0-3.7-.1-4.9C23.7 2.7 21.3.3 16.9.1 15.7 0 15.3 0 12 0zm0 5.8a6.2 6.2 0 1 0 0 12.4A6.2 6.2 0 0 0 12 5.8zm0 10.2a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.4-11.8a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8z"/></svg>
+      Instagram
+    </a>
+    <a href="https://www.facebook.com/Md.Faysal.Hossain.B/" target="_blank" class="badge b-fb">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.1C24 5.4 18.6 0 12 0S0 5.4 0 12.1c0 6 4.4 11 10.1 11.9v-8.4H7.1v-3.5h3v-2.6c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-1.9.9-1.9 1.9v2.2h3.3l-.5 3.5h-2.8v8.4C19.6 23.1 24 18.1 24 12.1z"/></svg>
+      Facebook
+    </a>
+    <a href="https://x.com/MdFaysalbddh" target="_blank" class="badge b-tw">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.2 2h3.2l-7 8 8.2 10.8h-6.4l-5-6.6-5.8 6.6H2.3l7.5-8.6L2 2h6.6l4.6 6.1L18.2 2zm-1.1 17.1h1.8L7 3.8H5.1l12 15.3z"/></svg>
+      X / Twitter
+    </a>
+  </div>
+
+  <!-- STATS -->
+  <div class="sec-head">Quick Stats</div>
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-num" id="cert-count">0</div>
+      <div class="stat-label">Certifications</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-num" id="yr-count">0</div>
+      <div class="stat-label">Years Experience</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-num" id="stack-count">0</div>
+      <div class="stat-label">Tech Skills</div>
+    </div>
+  </div>
+
+  <!-- INFO CARDS -->
+  <div class="sec-head">Profile Cards</div>
+  <div class="cards-grid">
+
+    <div class="card">
+      <div class="card-corner">01/04</div>
+      <div class="card-icon">🧑‍💻</div>
+      <div class="card-title">Identity</div>
+      <div class="card-body">
+        Name: MD Faysal Hossain<br>
+        Role: MERN Stack Developer<br>
+        Trainer: NSDA Web Design L-3<br>
+        Location: Motijheel, Dhaka<br>
+        Education: HSC 2023 · ECE 4th Sem<br>
+        Status: Open to Work &amp; Freelance
+      </div>
+      <div class="card-tags">
+        <span class="tag tag-g">MERN Stack</span>
+        <span class="tag tag-p">NSDA Trainer</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-corner">02/04</div>
+      <div class="card-icon">🏆</div>
+      <div class="card-title">Top Certifications</div>
+      <div class="card-body">
+        ✅ Web Design L-3 RPL — DCIT<br>
+        ✅ Web Dev Freelancing L-3 — EIT<br>
+        ✅ MERN Stack — DIPTI<br>
+        ✅ Python Web App L-4 — T&amp;S<br>
+        ✅ Android Kotlin L-4 — DIPTI<br>
+        ✅ ToT Refresher — NSDA ⭐
+      </div>
+      <div class="card-tags">
+        <span class="tag tag-y">13+ Certs</span>
+        <span class="tag tag-g">RPL Certified</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-corner">03/04</div>
+      <div class="card-icon">⚡</div>
+      <div class="card-title">Core Skills</div>
+      <div class="card-body">
+        Frontend: React · HTML5 · CSS3 · TW<br>
+        Backend: Node.js · Express · Python<br>
+        Database: MongoDB · MySQL · PgSQL<br>
+        Mobile: Kotlin · Android · ReactNative<br>
+        Design: Photoshop · Illustrator · Figma<br>
+        DevOps: Git · Linux · Docker
+      </div>
+      <div class="card-tags">
+        <span class="tag tag-p">Full-Stack</span>
+        <span class="tag tag-r">Mobile Dev</span>
+        <span class="tag tag-y">Design</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-corner">04/04</div>
+      <div class="card-icon">🎓</div>
+      <div class="card-title">Advanced Training</div>
+      <div class="card-body">
+        🔴 NSDA Refresher ToT<br>
+        🟣 Laravel Web Development<br>
+        🟣 ASP.NET Visual Programming<br>
+        🟢 Linux System Administration<br>
+        🟢 Software Testing &amp; QA<br>
+        🟠 Digital Marketing · Android Dev
+      </div>
+      <div class="card-tags">
+        <span class="tag tag-g">DUET</span>
+        <span class="tag tag-r">NSDA</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- SKILL PROFICIENCY -->
+  <div class="sec-head">Skill Proficiency</div>
+  <div class="skills-wrap">
+
+    <div class="skill-cat">⚡ Web Development</div>
+    <div class="prog-row"><div class="prog-label"><span>HTML5 / CSS3</span><span>95%</span></div><div class="prog-bar"><div class="prog-fill pf-g" style="width:95%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>JavaScript / React</span><span>88%</span></div><div class="prog-bar"><div class="prog-fill pf-g" style="width:88%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>Node.js / Express</span><span>85%</span></div><div class="prog-bar"><div class="prog-fill pf-g" style="width:85%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>Python / Django</span><span>80%</span></div><div class="prog-bar"><div class="prog-fill pf-p" style="width:80%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>PHP / Laravel</span><span>78%</span></div><div class="prog-bar"><div class="prog-fill pf-p" style="width:78%"></div></div></div>
+
+    <div class="skill-cat">🎨 Design & Mobile</div>
+    <div class="prog-row"><div class="prog-label"><span>Graphic Design (PS/AI)</span><span>85%</span></div><div class="prog-bar"><div class="prog-fill pf-r" style="width:85%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>Android / Kotlin</span><span>80%</span></div><div class="prog-bar"><div class="prog-fill pf-r" style="width:80%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>UI/UX / Figma</span><span>82%</span></div><div class="prog-bar"><div class="prog-fill pf-r" style="width:82%"></div></div></div>
+
+    <div class="skill-cat">📊 Other</div>
+    <div class="prog-row"><div class="prog-label"><span>Digital Marketing</span><span>88%</span></div><div class="prog-bar"><div class="prog-fill pf-y" style="width:88%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>Software QA / Testing</span><span>80%</span></div><div class="prog-bar"><div class="prog-fill pf-y" style="width:80%"></div></div></div>
+    <div class="prog-row"><div class="prog-label"><span>Linux Admin</span><span>75%</span></div><div class="prog-bar"><div class="prog-fill pf-y" style="width:75%"></div></div></div>
+
+  </div>
+
+  <!-- TECH STACK LOGOS -->
+  <div class="sec-head">Programming Languages &amp; Tools</div>
+
+  <div style="background:var(--panel);border:1px solid #30363D;border-radius:10px;padding:24px">
+    <div class="skill-cat" style="margin-top:0">Frontend</div>
+    <div class="langs">
+      <div class="lang-pill"><div class="lang-dot" style="background:#E34F26"></div>HTML5</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#1572B6"></div>CSS3</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#F7DF1E"></div>JavaScript</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#007ACC"></div>TypeScript</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#61DAFB"></div>React</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#38B2AC"></div>Tailwind CSS</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#7952B3"></div>Bootstrap</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#F24E1E"></div>Figma</div>
+    </div>
+
+    <div class="skill-cat">Backend</div>
+    <div class="langs">
+      <div class="lang-pill"><div class="lang-dot" style="background:#339933"></div>Node.js</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#000000"></div>Express.js</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#3776AB"></div>Python</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#092E20"></div>Django</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#777BB4"></div>PHP</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#FF2D20"></div>Laravel</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#512BD4"></div>ASP.NET</div>
+    </div>
+
+    <div class="skill-cat">Database</div>
+    <div class="langs">
+      <div class="lang-pill"><div class="lang-dot" style="background:#4EA94B"></div>MongoDB</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#4479A1"></div>MySQL</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#336791"></div>PostgreSQL</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#FFCA28"></div>Firebase</div>
+    </div>
+
+    <div class="skill-cat">Mobile &amp; Tools</div>
+    <div class="langs">
+      <div class="lang-pill"><div class="lang-dot" style="background:#7F52FF"></div>Kotlin</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#3DDC84"></div>Android</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#F05032"></div>Git</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#181717"></div>GitHub</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#FCC624"></div>Linux</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#2CA5E0"></div>Docker</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#FF6C37"></div>Postman</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#31A8FF"></div>Photoshop</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#FF9A00"></div>Illustrator</div>
+      <div class="lang-pill"><div class="lang-dot" style="background:#21759B"></div>WordPress</div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div style="text-align:center;margin-top:48px;padding:28px;background:var(--panel);border:1px solid #30363D;border-radius:10px">
+    <div style="font-family:'Orbitron',monospace;font-size:11px;letter-spacing:2px;color:var(--green);margin-bottom:12px">✦ AVAILABLE FOR WORK &amp; COLLABORATION ✦</div>
+    <p style="font-family:'Share Tech Mono',monospace;font-size:13px;color:var(--dim);line-height:1.8">
+      📞 01595530901 &nbsp;·&nbsp; 📧 teambangladesh599@gmail.com &nbsp;·&nbsp; 📍 Motijheel, Dhaka
+    </p>
+    <p style="font-family:'Orbitron',monospace;font-size:10px;color:#30363D;margin-top:16px;letter-spacing:3px">MD FAYSAL HOSSAIN © 2025 · BUILT WITH ❤️ IN BANGLADESH</p>
+  </div>
+
+</div>
+
+<script>
+// MATRIX RAIN
+const canvas = document.getElementById('matrix');
+const ctx = canvas.getContext('2d');
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+const cols = Math.floor(canvas.width / 18);
+const drops = Array(cols).fill(1);
+function drawMatrix() {
+  ctx.fillStyle = 'rgba(13,17,23,0.05)';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.fillStyle = '#00FFD1';
+  ctx.font = '14px Fira Code';
+  drops.forEach((y, i) => {
+    const char = String.fromCharCode(0x30A0 + Math.random() * 96);
+    ctx.fillText(char, i * 18, y * 18);
+    if (y * 18 > canvas.height && Math.random() > 0.975) drops[i] = 0;
+    drops[i]++;
+  });
+}
+setInterval(drawMatrix, 50);
+window.addEventListener('resize', () => { canvas.width = window.innerWidth; canvas.height = window.innerHeight; });
+
+// COUNT-UP ANIMATION
+function countUp(el, target, suffix='') {
+  let n = 0;
+  const step = Math.ceil(target / 40);
+  const t = setInterval(() => {
+    n = Math.min(n + step, target);
+    el.textContent = n + suffix;
+    if (n >= target) clearInterval(t);
+  }, 40);
+}
+setTimeout(() => {
+  countUp(document.getElementById('cert-count'), 13, '+');
+  countUp(document.getElementById('yr-count'), 3, '+');
+  countUp(document.getElementById('stack-count'), 20, '+');
+}, 400);
+</script>
+</body>
+</html>
