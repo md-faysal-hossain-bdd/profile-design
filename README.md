@@ -19,6 +19,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00FFD1&width=450&lines=faysal%40dev%3A~%24+init+--profile;faysal%40dev%3A~%24+cat+bio.log;faysal%40dev%3A~%24+cat+telemetry.db" alt="Terminal Command Animation" />
 </div>
 
-diff
+``diff
 ! cat bio.log
 + "Engineered as a Full-Stack MERN Developer and Technical Instructor based in Motijheel, Dhaka. Specializing in highly optimized scalable web infrastructures, cross-platform mobile environments, and automated Software Quality Assurance. Simultaneously training and certifying the next generation of ICT professionals under NSDA frameworks."
