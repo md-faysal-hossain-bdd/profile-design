@@ -24,7 +24,7 @@
 </div>
 
 <blockquote>
-  <b>CORE BIO-LOG:</b> Full-Stack MERN Stack Developer এবং কারিগরি প্রশিক্ষক (NSDA Certified Web Design Level-3) হিসেবে মতিঝিল, ঢাকা থেকে টেকনোলজি নিয়ে কাজ করছি। আমার মূল লক্ষ্য হচ্ছে উচ্চক্ষমতাসম্পন্ন ও সুরক্ষিত ওয়েব ইনফ্রাস্ট্রাকচার তৈরি করা এবং জাতীয় দক্ষতামান (NSDA Framework) অনুযায়ী নতুন আইসিটি পেশাদারদের গড়ে তোলা।
+  <b>CORE BIO-LOG:</b> Full-Stack MERN Stack Developer and Technical Instructor (NSDA Certified Web Design Level-3) operating from Motijheel, Dhaka. Specializing in highly optimized, scalable web infrastructures, cross-platform mobile environments, and automated Software Quality Assurance. Concurrently training and certifying the next generation of ICT professionals under standardized national frameworks.
 </blockquote>
 
 ---
