@@ -41,7 +41,7 @@ I am a versatile and highly certified **MERN Stack Developer** with a robust bac
         <summary><b>⚡ <code>SYSTEM_CORE // SKILLS_MATRIX</code></b></summary>
         <br />
         <!-- 🔴 ALERT: REPLACE 'YOUR_GITHUB_USERNAME_HERE' WITH YOUR EXACT GITHUB USERNAME BELOW -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=false" width="100%" alt="Top Languages Matrix" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?md-faysal-hossain-bdd&layout=compact&theme=tokyonight&hide_border=false" width="100%" alt="Top Languages Matrix" />
         <br /><br />
         <blockquote>
           <b>🧠 Core Domains:</b><br />
@@ -61,7 +61,7 @@ I am a versatile and highly certified **MERN Stack Developer** with a robust bac
         <summary><b>📂 <code>SECURE_DB // CREDENTIALS</code></b></summary>
         <p align="center">
           <!-- 🔴 ALERT: REPLACE 'YOUR_GITHUB_USERNAME_HERE' WITH YOUR EXACT GITHUB USERNAME BELOW -->
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?md-faysal-hossain-bdd&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" width="100%" alt="GitHub Stats" />
         </p>
         <blockquote>
           <b>🎯 NSDA Certified Trainer</b><br />
