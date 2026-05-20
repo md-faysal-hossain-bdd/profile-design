@@ -40,7 +40,8 @@ I am a versatile and highly certified **MERN Stack Developer** with a robust bac
       <details open>
         <summary><b>⚡ <code>SYSTEM_CORE // SKILLS_MATRIX</code></b></summary>
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-faysal-hossain-bddh&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true" width="100%" alt="Top Languages Matrix" />
+        <!-- 🔴 REPLACE 'YOUR_GITHUB_USERNAME_HERE' WITH YOUR ACTUAL GITHUB USERNAME BELOW -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=false" width="100%" alt="Top Languages Matrix" />
         <br /><br />
         <blockquote>
           <b>🧠 Core Domains:</b><br />
@@ -54,6 +55,20 @@ I am a versatile and highly certified **MERN Stack Developer** with a robust bac
       </details>
     </td>
     
+    <!-- COLUMN 2: INTERACTIVE INFO CARD -->
+    <td width="50%" valign="top">
+      <details open>
+        <summary><b>📂 <code>SECURE_DB // CREDENTIALS</code></b></summary>
+        <p align="center">
+          <!-- 🔴 REPLACE 'YOUR_GITHUB_USERNAME_HERE' WITH YOUR ACTUAL GITHUB USERNAME BELOW -->
+          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" width="100%" alt="GitHub Stats" />
+        </p>
+        <blockquote>
+          <b>🎯 NSDA Certified Trainer</b><br />
+          • Refresher Training of Trainers (NSDA)
+        </blockquote>
+      </details>
+    </td>
   </tr>
 </table>
 
