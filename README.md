@@ -113,7 +113,6 @@
   <a href="https://x.com/MdFaysalbddh" target="_blank"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
   <br/><br/>
-  <code>📟 +8801595530901</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>📧 teambangladesh599@gmail.com</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>📍 Motijheel, Dhaka</code>
 </div>
 
 ---
