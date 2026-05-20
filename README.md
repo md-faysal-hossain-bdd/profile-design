@@ -126,9 +126,3 @@ I am a versatile and highly certified **MERN Stack Developer** with a robust bac
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=00FF66&height=100&section=footer" width="100%" alt="footer" />
-</div>
